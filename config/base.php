@@ -2,7 +2,7 @@
   'site_name' => 'N-W.Felix的小网盘',
   'password' => 'oneindex',
   'style' => 'nexmoe',
-  'onedrive_root' => '/共享/',
+  'onedrive_root' => '/',
   'cache_type' => 'secache',
   'cache_expire_time' => 3600,
   'cache_refresh_time' => 600,
